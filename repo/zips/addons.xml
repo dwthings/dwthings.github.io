@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-  <addon id="repository.dwstuff" name="dwstuff" version="1.1" provider-name="dwthings">
+  <addon id="repository.dwstuff" name="dwstuff" version="1.0" provider-name="dwthings">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/dwthings/dwthings.github.io/master/repo/zips/addons.xml</info>
